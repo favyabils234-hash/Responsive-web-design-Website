@@ -1,18 +1,11 @@
-# Responsive-web-design-Website
-**Mandatory Task!**
+# Favour's personal website
 
-Dear Interns,
+A responsive portfolio site created from the Bootstrap starter project for the responsive web design assignment.
 
-The task is to completely modify/customize this bootstrap project. Use your creativity to write your first very own website with Responsive web design(RWD).
+The site has five sections: Home, Projects, About, Interests, and Contact. It introduces my Computer Science studies at the University of Debrecen, projects and coursework, favourite activities and food, and ways to contact me.
 
-**Your website should must contain:**
-* 5 Sections. (i-e Services,Portfolio, About etc)
-* Information about your past coding activity/projects.
-* Information about your academics (i-e Academic story,history,experience in uni etc)
-* Your favourites (i-e The preference on your favourites Activities, Food, Sports etc)
+- Live site: https://favyabils234-hash.github.io/Responsive-web-design-Website/
+- GitHub: https://github.com/favyabils234-hash
+- Email: favyabils125@gmail.com
 
-You can manage to adjust the above points in the website sections.
-
-Should you have questions do not hesitate to contact us. We are open 24/7.
-
-(email: TechLead@LimeLightR.org)
+The visual theme uses layered pink shades, rose accents, and responsive layouts for mobile and desktop.
